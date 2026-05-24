@@ -233,6 +233,7 @@ SpendWise goes beyond simple budgeting to provide:
 
 With future advancements and real-world integrations, SpendWise has the potential to evolve into a next-generation AI financial companion capable of empowering smarter financial decisions and improving overall financial well-being.
 
-#  **Output : **
+# Output : 
+
 
 
