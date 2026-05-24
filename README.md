@@ -235,5 +235,33 @@ With future advancements and real-world integrations, SpendWise has the potentia
 
 # Output : 
 
+<img width="1842" height="800" alt="Image" src="https://github.com/user-attachments/assets/4ca353cb-da89-4739-acf4-7dd595f04389" />
+
+<img width="1878" height="656" alt="Image" src="https://github.com/user-attachments/assets/8a45e048-38e6-4b7f-91c5-15153b3dcc38" />
+
+<img width="1823" height="781" alt="Image" src="https://github.com/user-attachments/assets/05d0761a-6f6a-4e51-bab0-a41ef6c82088" />
+
+<img width="1772" height="767" alt="Image" src="https://github.com/user-attachments/assets/af2afcd6-2846-4f43-b6a6-c8d2650aef1f" />
+
+<img width="1827" height="767" alt="Image" src="https://github.com/user-attachments/assets/bfd72644-4638-4990-bc44-756e56b0657d" />
+
+<img width="1400" height="673" alt="Image" src="https://github.com/user-attachments/assets/ab286d4d-e30d-48bb-8037-3660016fd717" />
+
+<img width="1868" height="622" alt="Image" src="https://github.com/user-attachments/assets/a3588463-1562-4539-8068-4218abb3377f" />
+
+<img width="1216" height="703" alt="Image" src="https://github.com/user-attachments/assets/8580f30d-8582-4d0b-a4e1-47bd1cbc784b" />
+
+<img width="1811" height="782" alt="Image" src="https://github.com/user-attachments/assets/c9bbd4e0-fc64-4854-b61f-18abc4082600" />
+
+<img width="1843" height="765" alt="Image" src="https://github.com/user-attachments/assets/6d9dcb2d-d373-4694-a606-2058463dbfcd" />
+
+<img width="1813" height="737" alt="Image" src="https://github.com/user-attachments/assets/4c6c3880-f8c8-43e4-9eeb-f901df7f606f" />
+
+<img width="1812" height="767" alt="Image" src="https://github.com/user-attachments/assets/69aeab32-f1b9-4e8a-932a-8d42aaa0d3bf" />
+
+<img width="1811" height="636" alt="Image" src="https://github.com/user-attachments/assets/06d7852c-b0d1-4eaa-8b35-e8e4249b8ae1" />
+
+<img width="1826" height="645" alt="Image" src="https://github.com/user-attachments/assets/24b5ae70-0b27-4633-af6e-fa4c9565dc7e" />
+
 
 
